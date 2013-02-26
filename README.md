@@ -5,7 +5,7 @@
 ### id attribute values
 This design relies on three unique identifiers for representations: 
 
-comics
+####comics
 Applied to a div tag. The list of comics in this representation. This list may contain only one comic.
 
 issues
